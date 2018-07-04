@@ -1,2 +1,4 @@
 I am learning GIT
 yes
+
+understanding git stage
