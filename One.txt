@@ -3,3 +3,4 @@ yes
 
 understanding git stage
 lerning pull
+ understanding git conflicts
